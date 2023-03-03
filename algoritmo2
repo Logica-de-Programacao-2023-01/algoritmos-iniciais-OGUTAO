@@ -1,0 +1,7 @@
+algoritmo de soma
+
+leia a
+leia b
+resultado = a + b
+escreva resultado
+fim
